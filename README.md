@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @msab2021
+- 👀 I’m interested in technology
+- 🌱 I’m currently learning flutter
+- 💞️ I’m looking to collaborate with sofware development factory
+- 📫 How to reach me shikhmohamad59@gmail.com
+- ⚡ Fun fact: the term "bug" in computer science originated from an actual moth found in a computer in 1947
